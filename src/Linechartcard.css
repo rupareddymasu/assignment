@@ -1,0 +1,32 @@
+.Linechartcard{
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 1px;
+  background-color: #fff;
+  transition: transform 0.2s ease-in-out;
+  position: absolute;
+
+   
+
+    width: 1000px;
+
+   
+
+    height: 359px;
+
+   
+
+    left: 380px;
+
+   
+
+    top: 289px;
+    right:60px;
+}
+
+ 
+
+.card:hover {
+  transform: translateY(-4px);
+}
